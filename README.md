@@ -226,8 +226,6 @@ http://localhost:8088
 
 
 
-## Acknowledgements
 
-- [Masai School](https://www.masaischool.com/)
  
 
