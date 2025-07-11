@@ -115,7 +115,7 @@ https://dev.mysql.com/downloads/mysql/
 Clone the Project
 
 ```bash
-git clone https://github.com/TejasMedade/E-Wallet-Payment-System
+git clone [https://github.com/DonthiGeethikaBhargavi/E-Wallet-Payment-Platform.git]
 ```
 
 Open MySQL Server
