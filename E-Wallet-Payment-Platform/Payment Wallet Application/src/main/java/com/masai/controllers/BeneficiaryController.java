@@ -27,10 +27,7 @@ import com.masai.model.Beneficiary;
 import com.masai.model.User;
 import com.masai.services.BeneficiaryService;
 
-/**
- * @author tejas
- *
- */
+
 @RestController
 @RequestMapping("/beneficiary")
 public class BeneficiaryController {
