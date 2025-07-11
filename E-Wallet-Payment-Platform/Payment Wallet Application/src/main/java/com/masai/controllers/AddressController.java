@@ -26,10 +26,7 @@ import com.masai.exceptions.LoginException;
 import com.masai.model.Address;
 import com.masai.services.AddressService;
 
-/**
- * @author tejas
- *
- */
+
 
 @RestController
 @RequestMapping("/address")
