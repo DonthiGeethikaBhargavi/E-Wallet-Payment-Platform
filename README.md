@@ -225,35 +225,6 @@ http://localhost:8088
 ![Screenshot 2022-11-25 at 02-29-19 Swagger UI](https://user-images.githubusercontent.com/105907169/203863039-06043861-886f-48a0-871c-b5cc84aa348d.png)
 
 
-## Contributions
-
-Contributions are always **Welcome** !
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
-
-If you have any ideas on how to improve this resume, please feel free to fork the repository and submit a pull request. Your contributions, no matter how big or small, are greatly appreciated and will help to make this repository even better.
-
-In addition to contributing to the repository, you can also connect with me for further development and collaboration on this API. Together, we can continue to improve and evolve the API to meet the needs of the community.
-
-We encourage you to give the repository a star and we thank you for your interest in this project. 
-
-Your support is greatly appreciated.
-
-## 🔗 Contact Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tejasmedade.github.io/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/TejasMedade)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TejasMedade)
-
-
-## Authors
-
-- [Shreyas Vilas Medade](https://github.com/medadeshreyas)
-
-- [Tejas Vilas Medade](https://github.com/tejasmedade)
-
-
 
 ## Acknowledgements
 
