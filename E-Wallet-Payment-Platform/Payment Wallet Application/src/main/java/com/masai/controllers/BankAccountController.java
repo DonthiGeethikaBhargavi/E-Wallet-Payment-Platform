@@ -29,10 +29,7 @@ import com.masai.model.BankAccount;
 import com.masai.model.User;
 import com.masai.services.BankAccountService;
 
-/**
- * @author tejas
- *
- */
+
 @RestController
 @RequestMapping("/bankaccount")
 public class BankAccountController {
